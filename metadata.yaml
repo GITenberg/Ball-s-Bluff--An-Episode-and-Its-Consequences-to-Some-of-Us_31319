@@ -1,0 +1,26 @@
+_repo: Ball-s-Bluff--An-Episode-and-Its-Consequences-to-Some-of-Us_31319
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Peirson, Charles Lawrence
+    birthdate: 1834
+    gutenberg_agent_id: '35149'
+    url: http://www.gutenberg.org/2009/agents/35149
+description: ''
+gutenberg_issued: '2010-02-18'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31319'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Libby Prison'
+- !lcc 'E456'
+- !lcsh 'Ball''s Bluff, Battle of, Va., 1861'
+title: 'Ball''s Bluff: An Episode and Its Consequences to Some of Us'
+url: http://www.gutenberg.org/ebooks/31319
